@@ -34,7 +34,7 @@ module.exports = {
   },
 
   /**
-   * 
+   *
    * @param todos
    * @param showCompleted
    * @param searchText
