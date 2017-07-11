@@ -1,0 +1,314 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"map",
+				"mapReducer"
+			],
+			[
+				"movies",
+				"moviesReducer"
+			],
+			[
+				"hobbie",
+				"hobbiesReducer"
+			],
+			[
+				"REMOVE",
+				"REMOVE_HOBBY"
+			],
+			[
+				"hobbi",
+				"hobbiesReducer"
+			],
+			[
+				"j",
+				"jq-boilerplate-min\tjQuery Plugin Boilerplate Minified"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/aarney/Desktop/redux-udemy/app/app.jsx",
+		"/Users/aarney/Desktop/redux-udemy/app/redux-example.jsx",
+		"/Users/aarney/Desktop/redux-udemy/app/store/configureStore.jsx",
+		"/Users/aarney/Desktop/redux-udemy/.gitignore",
+		"/Users/aarney/Desktop/redux-udemy/app/actions/index.jsx",
+		"/Users/aarney/Desktop/redux-udemy/app/reducers/index.jsx",
+		"/Users/aarney/Desktop/redux-udemy/app/redux-toto-example.jsx",
+		"/Users/aarney/Desktop/redux-udemy/package.json",
+		"/Users/aarney/Desktop/react-redux-udemy/app/app.jsx",
+		"/Users/aarney/Documents/websites/ymca/wp-content/plugins/wordpress-importer/wordpress-importer.php",
+		"/Users/aarney/Documents/websites/ymca/wp-content/plugins/time-based-content/TimeBasedContentForVC.php",
+		"/Users/aarney/Documents/websites/ymca/wp-content/plugins/wordpress-importer/parsers.php",
+		"/Users/aarney/Documents/websites/tinypng-api-test/src/App.js",
+		"/Users/aarney/Documents/websites/tinypng-api-test/node_modules/tinify/lib/tinify/Client.js",
+		"/Volumes/FrogFile/JUMP/Site Logins/TinyPNG API Key",
+		"/Users/aarney/Documents/websites/bapc/_db_backups/bee1222502462248.sql",
+		"/Users/aarney/Downloads/search-everything/search-everything.php",
+		"/Users/aarney/Downloads/bwp-minify 2/includes/class-bwp-minify.php",
+		"/Users/aarney/Downloads/bwp-minify 2/bwp-minify.php",
+		"/Users/aarney/Downloads/twentyseventeen/search.php",
+		"/Users/aarney/Desktop/test.txt",
+		"/Users/aarney/Downloads/FoundationPress-master/header.php",
+		"/Users/aarney/Documents/dc01-ca.crt"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"');\n",
+			"WP_LOAD_IMPORTERS",
+			"&nbsp;",
+			"<p>",
+			"</p>",
+			" style=\"margin-bottom:.0001pt\"",
+			" style=\"margin-bottom: 0.0001pt;\"",
+			"<span style=\"background:white\">",
+			"<p>",
+			"<span style=\"vertical-align:baseline\">",
+			"<span style=\"line-height:normal\">",
+			"<p align=\"center\" style=\"text-align:center\">",
+			" align=\"center\" style=\"text-align:center\">",
+			"</span>",
+			"<span style=\"font-size:12.0pt\">",
+			"<span style=\"letter-spacing:.4pt\">",
+			"<span style=\"color:#333333\">",
+			"<span style=\"font-family:&quot;Arial&quot;,sans-serif\">",
+			"<span style=\"line-height:107%\">",
+			"<span style=\"font-size:20.0pt\">",
+			"</span>",
+			"<span style=\"font-family:&quot;Calibri&quot;,sans-serif\">",
+			"<span style=\"font-size:14.0pt\">",
+			"<span style=\"font-family:&quot;Segoe UI&quot;,sans-serif\">",
+			"</span>",
+			"<span style=\"color:black\">",
+			"<span style=\"font-family:&quot;TradeGothicLTStd&quot;,sans-serif\">",
+			"<span style=\"font-size:10.0pt\">",
+			"<span style=\"text-autospace:none\">",
+			"<span style=\"line-height:normal\">",
+			" style=\"margin-bottom:.0001pt\"",
+			"</span>",
+			"<span style=\"color:black\">",
+			"<span style=\"font-family:&quot;TradeGothicLTStd&quot;,sans-serif\">",
+			"<span style=\"font-size:10.0pt\">",
+			"<span style=\"text-autospace:none\">",
+			"<span style=\"line-height:normal\">",
+			" style=\"margin-bottom:.0001pt\"",
+			"<span style=\"font-family:&quot;TradeGothicLTStd&quot;,sans-serif\">",
+			"<span style=\"color:black\">",
+			"<span style=\"font-size:10.0pt\">",
+			" style=\"margin-bottom:.0001pt\"",
+			"<span style=\"line-height:normal\">",
+			"</span>",
+			"<<span style=\"color:black\">",
+			"<span style=\"font-family:&quot;TradeGothicLTStd-Bd2&quot;,sans-serif\">",
+			"span style=\"font-size:14.0pt\">",
+			"<span style=\"text-autospace:none\">",
+			"<span style=\"line-height:normal\">",
+			"<p style=\"margin-bottom:.0001pt\">",
+			"<span style=\"font-size:10.0pt\">",
+			"<span style=\"font-family:&quot;TradeGothicLTStd&quot;,sans-serif\">",
+			"</span>",
+			"<span style=\"font-family:&quot;TradeGothicLTStd-Bd2&quot;,sans-serif\">",
+			"<span style=\"font-size:14.0pt\">",
+			"<span style=\"line-height:normal\">",
+			"<span style=\"font-family:&quot;TradeGothicLTStd&quot;,sans-serif\">",
+			"<span style=\"font-size:10.0pt\">",
+			"<span style=\"text-autospace:none\">",
+			" style=\"margin-bottom:.0001pt\"",
+			"</span>",
+			"<span style=\"color:black\">",
+			"<span style=\"font-family:&quot;TradeGothicLTStd-Bd2&quot;,sans-serif\">",
+			"<span style=\"font-size:14.0pt\">",
+			"<span style=\"line-height:normal\">",
+			"<span style=\"font-family:&quot;TradeGothicLTStd&quot;,sans-serif\">",
+			"<span style=\"font-size:10.0pt\">",
+			"style=\"margin-bottom:.0001pt\"",
+			"</span>",
+			"<span style=\"color:black\">",
+			"<span style=\"font-family:&quot;TradeGothicLTStd-Bd2&quot;,sans-serif\">",
+			"<span style=\"font-size:14.0pt\">",
+			"<span style=\"text-autospace:none\">",
+			"<span style=\"line-height:normal\">",
+			"<span style=\"line-height:107%\">",
+			"<p style=\"margin-bottom: 0.0001pt;\">",
+			"<span style=\"font-size:14.0pt\">",
+			"<span style=\"color:black\">",
+			"<p style=\"margin-bottom:.0001pt\">",
+			"</span>",
+			"<span>",
+			"<span style=\"line-height:normal\">",
+			"<span style=\"font-size:10.0pt\">",
+			"<span style=\"text-autospace:none\">",
+			"mentor-resources"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"<p>",
+			"",
+			"<p>",
+			"",
+			"<p>",
+			"",
+			"<p>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
